@@ -33,6 +33,5 @@ python test.py --model_name efficient-b0 --checkpoint pretrained_pytorch/efficie
 ### References
 Appreciate the great work from the following repositories:
 - [official/efficientnet](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
-- [google/automl](https://github.com/google/automl)
 - [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
