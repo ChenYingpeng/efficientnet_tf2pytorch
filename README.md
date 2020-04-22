@@ -25,7 +25,7 @@ look `pretrained_tf/` dir.
 python convert_params_tf2pytorch.py --model_name efficient-b0 --tf_checkpoint pretrained_tf/efficient-b0/ --output_file pretrained_pytorch/efficient-b0.pth
 ```
 
-### Test pytorh model
+### Test pytorch model
 ```shell
 python test.py --model_name efficient-b0 --checkpoint pretrained_pytorch/efficient-b0.pth
 ```
